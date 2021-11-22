@@ -6,14 +6,16 @@
 # all sequences in python. Also note that despite adding 4 and 3 to the set twice, each item
 # can only appear once in a set.
 
-#CREATE AN EMPTY SET
+# CREATE AN EMPTY SET
 
 s = set()
 
-#ADDING VALUES TO THE SET
+# ADDING VALUES TO THE SET
 
 s.add(1)
 s.add(2)
 s.add(3)
 s.add(4)
 
+# PRINT THE SET
+print(s) # {1, 2, 3, 4}
