@@ -19,3 +19,6 @@ s.add(4)
 
 # PRINT THE SET
 print(s) # {1, 2, 3, 4}
+
+#REMOVING ONE ITEM IN SET
+s.remove(3)
