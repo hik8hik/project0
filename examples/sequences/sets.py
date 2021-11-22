@@ -5,3 +5,7 @@
 # that set, and the len function to find the set’s size. Note that the len function works on
 # all sequences in python. Also note that despite adding 4 and 3 to the set twice, each item
 # can only appear once in a set.
+
+#CREATE AN EMPTY SET
+
+s = set()
