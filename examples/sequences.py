@@ -24,3 +24,6 @@ print(names[0])  # Harry
 #NOTE: TUPLE
 # PRINTS OUT THE WHOLE TUPLE
 print(coordinate)  # (10.0, 20.0)
+
+# PRINTS OUT THE POSITIONED TUPLE
+print(coordinate[0])  # 10.0
