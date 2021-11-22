@@ -6,3 +6,6 @@ class Point():
 
 p = Point(2, 8)
 
+# PRINT THE X&Y-VALUES OF THE POINT
+print(p.x)
+print(p.y)
