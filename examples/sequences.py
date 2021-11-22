@@ -4,7 +4,7 @@ name = "Harry"
 #NOTE: LIST
 names = ["Harry", "Hik", "Linkin", "Park"]
 
-#NOTE: TOPPLE
+#NOTE: TUPLE
 coordinate = (10.0, 20.0)
 
 #NOTE: STRINGS
