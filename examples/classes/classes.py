@@ -9,3 +9,11 @@ p = Point(2, 8)
 # PRINT THE X&Y-VALUES OF THE POINT
 print(p.x)
 print(p.y)
+
+# CREATED A CLASS (Flight which takes capacity as input)
+
+
+class FLight():
+    def __init__(self, capacity):
+        self.capacity = capacity
+        self.passengers = []
