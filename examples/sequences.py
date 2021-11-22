@@ -1,10 +1,10 @@
 #NOTE: STRINGS
 name = "Harry"
 
-#NOTE: LIST
+#NOTE: LIST - Secuence of mutable values
 names = ["Harry", "Hik", "Linkin", "Park"]
 
-#NOTE: TUPLE
+#NOTE: TUPLE - sequence of immutable values
 coordinate = (10.0, 20.0)
 
 #NOTE: STRINGS
