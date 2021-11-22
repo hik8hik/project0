@@ -9,3 +9,11 @@
 #CREATE AN EMPTY SET
 
 s = set()
+
+#ADDING VALUES TO THE SET
+
+s.add(1)
+s.add(2)
+s.add(3)
+s.add(4)
+
