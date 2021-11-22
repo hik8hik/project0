@@ -17,3 +17,6 @@ class FLight():
     def __init__(self, capacity):
         self.capacity = capacity
         self.passengers = []
+
+
+flight = FLight(3)
