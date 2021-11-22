@@ -1,4 +1,5 @@
 name = "Harry"
+names = ["Harry","Hik","Linkin","Park"]
 
 
 # PRINTS OUT THE FIRST LETTER OF HARRY'S NAME
