@@ -105,4 +105,4 @@ dist
 
 
 #PROTOTYPING
-__pycache__/*
+__pycache__ /*
