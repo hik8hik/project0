@@ -18,7 +18,10 @@ s.add(3)
 s.add(4)
 
 # PRINT THE SET
-print(s) # {1, 2, 3, 4}
+print(s)  # {1, 2, 3, 4}
 
-#REMOVING ONE ITEM IN SET
+# REMOVING ONE ITEM IN SET
 s.remove(3)
+
+# PRINT AFTER REMOVAL
+print(s)
