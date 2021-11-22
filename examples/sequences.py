@@ -19,4 +19,8 @@ print(name[1])  # a
 print(names)  # ["Harry","Hik","Linkin","Park"]
 
 # PRINTS OUT THE POSITIONED ITEM
-print(names[0])  # ["Harry","Hik","Linkin","Park"]
+print(names[0])  # Harry
+
+#NOTE: TUPLE
+# PRINTS OUT THE WHOLE TUPLE
+print(coordinate)  # (10.0, 20.0)
