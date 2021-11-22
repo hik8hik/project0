@@ -24,4 +24,7 @@ print(s)  # {1, 2, 3, 4}
 s.remove(3)
 
 # PRINT AFTER REMOVAL
-print(s)
+print(s) # {1, 2, 4}
+
+#PRINT TOTAL NUMBER OF ELEMENTS IN THE SET
+print(f"The set 's' has {len(s)} elements.")
